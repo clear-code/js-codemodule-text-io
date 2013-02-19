@@ -5,9 +5,7 @@
  *
  * @license
  *   The MIT License, Copyright (c) 2010 ClearCode Inc.
- *   https://github.com/clear-code/js-codemodules/blob/master/license.txt
- * @url https://github.com/clear-code/js-codemodules/blob/master/textIO.jsm
- * @url https://github.com/clear-code/js-codemodules/blob/master/textIO.test.js
+ * @url https://github.com/clear-code/js-codemodule-text-io
  */
 
 if (typeof window == 'undefined' ||
